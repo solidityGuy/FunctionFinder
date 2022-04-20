@@ -22,4 +22,7 @@ Example:
 4. You run injector.cpp, passing another myfile.exe as an argument, so it reads injector2.cpp (copy of itself) grabs the function location and size, and pastes it inside a code cave in myfile.exe.
 5. When you run myfile.exe your function will run.
 
-Credits to dTm at 0x00sec for making the injector program. Compiled with Visual Studio.
+Credits to dTm at 0x00sec for making the injector program. 
+https://0x00sec.org/t/pe-file-infection/401
+
+Compiled with Visual Studio.
